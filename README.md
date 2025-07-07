@@ -44,7 +44,7 @@ I am always looking for new challenges, practical projects, and opportunities to
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
