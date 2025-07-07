@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Alexsander Augusto
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Olá! Sou Alexsander, tenho 20 anos, e sou movido pela paixão por tecnologia e desenvolvimento de software. Sou técnico de Programação de Jogos Digitais (SENAI-MG), onde tive meu primeiro contato com lógica, design interativo e resolução criativa de problemas. Atualmente curso Engenharia da Computação no CEFET-MG e estou focado em me tornar um desenvolvedor full stack, com forte interesse em tecnologias modernas para web e mobile.
+Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I'm a Digital Game Programming technician (SENAI-MG), where I had my first contact with logic, interactive design, and creative problem-solving. I am currently studying Computer Engineering at CEFET-MG and I am focused on becoming a full stack developer, with a strong interest in modern technologies for web and mobile.
 
-**`Stack de estudos atuais:`**
+**`Current study stack:`**
 
 **Front-end**: React.js, Next.js
 
@@ -14,7 +14,7 @@ Olá! Sou Alexsander, tenho 20 anos, e sou movido pela paixão por tecnologia e 
 
 **Extras**: Tailwind CSS, TypeScript, Firebase, Supabase
 
-Estou sempre em busca de novos desafios, projetos práticos e oportunidades para aplicar meus conhecimentos em ambientes reais. Acredito na importância do aprendizado contínuo, da escrita de código limpo e da colaboração em equipe para construir soluções escaláveis e impactantes.
+I am always looking for new challenges, practical projects, and opportunities to apply my knowledge in real environments. I believe in the importance of continuous learning, writing clean code, and teamwork to build scalable and impactful solutions.
 
 <p align="left">
           <a href="https://github.com/Alexsander532?tab=repositories&sort=stargazers">
