@@ -2,9 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Alexsander, tenho 20 anos, e sou movido pela paixão por tecnologia e desenvolvimento de software. Sou técnico de Programação de Jogos Digitais (SENAI-MG), onde tive meu primeiro contato com lógica, design interativo e resolução criativa de problemas.
-
-Atualmente curso Engenharia da Computação no CEFET-MG e estou focado em me tornar um desenvolvedor full stack, com forte interesse em tecnologias modernas para web e mobile.
+Olá! Sou Alexsander, tenho 20 anos, e sou movido pela paixão por tecnologia e desenvolvimento de software. Sou técnico de Programação de Jogos Digitais (SENAI-MG), onde tive meu primeiro contato com lógica, design interativo e resolução criativa de problemas. Atualmente curso Engenharia da Computação no CEFET-MG e estou focado em me tornar um desenvolvedor full stack, com forte interesse em tecnologias modernas para web e mobile.
 
 **`Stack de estudos atuais:`**
 
