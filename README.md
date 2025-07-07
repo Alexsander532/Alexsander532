@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I'm a Digital Game Programming technician (SENAI-MG), where I had my first contact with logic, interactive design, and creative problem-solving. I am currently studying Computer Engineering at CEFET-MG and I am focused on becoming a full stack developer, with a strong interest in modern technologies for web and mobile.
+Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I'm a Digital Game Programming technician (SENAI-MG), where I had my first contact with logic, interactive design, and creative problem-solving. I’m currently pursuing a Bachelor’s degree in Computer Engineering at CEFET-MG, and I’m focused on becoming a full stack developer, with strong interest in modern web and mobile technologies.
 
 **`Current study stack:`**
 
