@@ -1,40 +1,47 @@
-## Alexsander Augusto
-
 # 👩🏻‍💻 Alexsander Augusto
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! Sou Alexsander, tenho 20 anos, e sou movido pela paixão por tecnologia e desenvolvimento de software. Sou técnico de Programação de Jogos Digitais (SENAI-MG), onde tive meu primeiro contato com lógica, design interativo e resolução criativa de problemas.
+
+Atualmente curso Engenharia da Computação no CEFET-MG e estou focado em me tornar um desenvolvedor full stack, com forte interesse em tecnologias modernas para web e mobile.
+
+**`Stack de estudos atuais:`**
+
+**Front-end**: React.js, Next.js
+
+**Back-end**: Node.js, Express
+
+**Mobile**: React Native, Flutter
+
+**Extras**: Tailwind CSS, TypeScript, Firebase, Supabase
+
+Estou sempre em busca de novos desafios, projetos práticos e oportunidades para aplicar meus conhecimentos em ambientes reais. Acredito na importância do aprendizado contínuo, da escrita de código limpo e da colaboração em equipe para construir soluções escaláveis e impactantes.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+          <a href="https://github.com/Alexsander532?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Alexsander532?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Alexsander532?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Alexsander532?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/alexsander-augusto-lima-9b49221b4/">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Alexsander532?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
+
 </p>
 
 ---
@@ -176,3 +183,5 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
   />
 
 </p>
+
+
