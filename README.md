@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I'm a Digital Game Programming technician (SENAI-MG), where I had my first contact with logic, interactive design, and creative problem-solving. I’m currently pursuing a Bachelor’s degree in Computer Engineering at CEFET-MG, and I’m focused on becoming a full stack developer, with strong interest in modern web and mobile technologies.
+Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I'm a Digital Game Programming technician (SENAI-MG), where I had my first contact with logic, interactive design, and creative problem-solving. I am currently studying Computer Engineering at CEFET-MG and I am focused on becoming a full stack developer, with a strong interest in modern technologies for web and mobile.
 
 **`Current study stack:`**
 
@@ -16,35 +16,11 @@ Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technol
 
 I am always looking for new challenges, practical projects, and opportunities to apply my knowledge in real environments. I believe in the importance of continuous learning, writing clean code, and teamwork to build scalable and impactful solutions.
 
-<p align="left">
-          <a href="https://github.com/Alexsander532?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Alexsander532?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Alexsander532?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Alexsander532?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/alexsander-augusto-lima-9b49221b4/">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Alexsander532?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+## [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsander532?tab=repositories)  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.santanasamuel@gmail.com)
 
 
-</p>
-
----
-
-### 🤖 Languages and Technologies
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -150,6 +126,15 @@ I am always looking for new challenges, practical projects, and opportunities to
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
 <br/>
 <br/>
 
