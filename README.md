@@ -157,5 +157,44 @@ I am always looking for new challenges, practical projects, and opportunities to
   />
 
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### 🔥 My Stats
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Alexsander532&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexsander532/Alexsander532/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexsander532/Alexsander532/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alexsander532/Alexsander532/output/pacman-contribution-graph.svg">
+</picture>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Alexsander532/Alexsander532/output/snake.svg" alt="Snake animation" />
+
+###
 
 
