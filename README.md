@@ -165,6 +165,7 @@ I am always looking for new challenges, practical projects, and opportunities to
 <br/>
 <br/>
 <br/>
+<br/>
 
 
 ---
@@ -176,9 +177,7 @@ I am always looking for new challenges, practical projects, and opportunities to
 </div>
 
 ###
-
-
-
+---
 ###
 
 <picture>
