@@ -170,7 +170,6 @@ I am always looking for new challenges, practical projects, and opportunities to
 
 ---
 
-### 🔥 My Stats
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Alexsander532&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -179,6 +178,9 @@ I am always looking for new challenges, practical projects, and opportunities to
 ###
 ---
 ###
+<div align="center">
+  ### 🔥 My Stats
+</div>
 
 <br clear="both">
 
