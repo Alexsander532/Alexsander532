@@ -165,8 +165,7 @@ I am always looking for new challenges, practical projects, and opportunities to
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ---
 
