@@ -153,7 +153,7 @@ I am always looking for new challenges, practical projects, and opportunities to
     alt="GitHub Stats" 
     height="200" 
     style="padding-left: 100px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander532&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=15" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander532&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 </p>
 <br/>
