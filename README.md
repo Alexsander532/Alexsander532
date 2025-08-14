@@ -8,9 +8,9 @@ Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technol
 
 **Front-end**: React.js, Next.js
 
-**Back-end**: Node.js, Express, Java, SpringBoot
+**Back-end**: Node.js, Express, Fastify, Java, SpringBoot
 
-**Mobile**: React Native, Flutter
+**Mobile**: React Native, Expo, Flutter
 
 **Extras**: Tailwind CSS, TypeScript, Firebase, Supabase
 
