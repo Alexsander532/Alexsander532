@@ -1,20 +1,19 @@
-# 👩🏻‍💻 Alexsander Augusto
+# 👨🏻‍💻 Alexsander Augusto
+**`Backend Developer`**
 
-**`FullStack Developer`**
+Hey! I'm Alexsander, 21 years old, driven by a passion for technology and software development. I work as a backend developer with **3+ years of experience**, building products from zero to launch — including SaaS platforms and mobile apps shipped to production.
 
-Hello! I'm Alexsander, I'm 20 years old, and I'm driven by a passion for technology and software development. I am currently studying Computer Engineering at CEFET-MG and I am focused on becoming a full stack developer, with a strong interest in modern technologies for web and mobile.
+My expertise spans scalable architectures, microservices, payment gateway integrations, and everything it takes to take a product from idea to live.
 
 **`Current study stack:`**
 
-**Front-end**: React.js, Next.js
+**Front-end**: React.js, Angular
 
-**Back-end**: Node.js, Express, Fastify, Java, SpringBoot
+**Back-end**: Java, SpringBoot, PHP, Laravel, Node.JS
 
-**Mobile**: React Native, Expo, Flutter
+**Mobile**: Flutter, Kotlin, Jetpack Compose
 
-**Extras**: Tailwind CSS, TypeScript, Firebase, Supabase
-
-I am always looking for new challenges, practical projects, and opportunities to apply my knowledge in real environments. I believe in the importance of continuous learning, writing clean code, and teamwork to build scalable and impactful solutions.
+**Extras**: AWS, Cloudflare, Tailwind CSS, TypeScript, Firebase, Supabase
 
 
 ## [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsander532?tab=repositories) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-augusto-lima-9b49221b4/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.alexsanderaugusto142019@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-53127A?style=for-the-badge&logoColor=white)](https://www.alexsander.site/)
